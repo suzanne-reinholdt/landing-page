@@ -1,0 +1,14 @@
+.button{
+	background-color: rgb(29 72 81);
+	color: white;
+	border-radius: 10px;
+	padding: 16px;
+	border: solid 1px blue;
+}
+
+.button:hover{
+	color: blueviolet;
+	background-color: whitesmoke;
+	transition: 1st;
+
+}

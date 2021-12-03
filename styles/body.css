@@ -1,0 +1,19 @@
+.body {
+	background-image: linear-gradient(63deg,rgb(6 119 144 / 58%)33%,rgb(29 72 81) 86%); 
+	height: 40vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.body h1 {
+	margin: 0;
+	color: white;
+}
+
+.body h2 {
+	color:  white;
+}
